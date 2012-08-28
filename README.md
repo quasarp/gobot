@@ -6,3 +6,6 @@ a chat bot written in GO for automating jenkins builds and testing via github. c
 because it is written in GO it can be deployed just about anywhere with ease, unlike Github's janky which was hours of hair pulling for a non-ruby hacker.
 
 for those un-familiar with GO it is a compiled language like C but has speed of development like python.
+
+
+### This is a work in progress, not ready for production
